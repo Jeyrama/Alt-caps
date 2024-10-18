@@ -7,3 +7,6 @@ For example, capitalize("abcdef") = ['AbCdEf', 'aBcDeF'].
 
 The input will be a lowercase string with no spaces.
 */
+
+
+// Solution
